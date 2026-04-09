@@ -99,7 +99,7 @@ flutter run -d ios
 🛠️ **Web Firebase authentication not working?**  
 🔹 Ensure your `authDomain` is correctly set in `firebase_options.dart`.
 
----
+---flutter run -d ios
 
 ## 🐝 License
 This project is open-source under the **MIT License**.
